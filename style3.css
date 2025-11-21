@@ -318,7 +318,7 @@
 .PROYECTOS .rectangle-6 {
   position: absolute;
   top: 0;
-  left: 0;
+  left: -80px;
   width: 223px;
   height: 252px;
   background-color: #d9d9d9;
@@ -328,7 +328,7 @@
 .PROYECTOS .PARCHATE {
   position: absolute;
   top: 0;
-  left: 162px;
+  left: -80px;
   width: 223px;
   height: 252px;
   aspect-ratio: 0.56;
