@@ -1,0 +1,478 @@
+.AL-RITMO-DEL-SABOR {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  position: relative;
+  background-color: #ffeccc;
+  overflow: hidden;
+}
+
+.AL-RITMO-DEL-SABOR .MENU {
+  position: relative;
+  width: 1920px;
+  height: 43px;
+}
+
+.AL-RITMO-DEL-SABOR .rectangle {
+  top: 18px;
+  height: 7px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+
+.AL-RITMO-DEL-SABOR .component {
+  top: 0;
+  left: 162px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper {
+  position: absolute;
+  width: 48.23%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 26.24%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.AL-RITMO-DEL-SABOR .div-wrapper {
+  top: 0;
+  left: 647px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.AL-RITMO-DEL-SABOR .div {
+  position: absolute;
+  width: 74.47%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 13.48%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.AL-RITMO-DEL-SABOR .component-2 {
+  top: 0;
+  left: 1132px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-2 {
+  position: absolute;
+  width: 91.49%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 4.26%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.AL-RITMO-DEL-SABOR .component-3 {
+  top: 0;
+  left: 1617px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-3 {
+  position: absolute;
+  width: 83.69%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 8.51%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.AL-RITMO-DEL-SABOR .div-2 {
+  position: relative;
+  width: 1924px;
+  height: 138px;
+  margin-right: -4.00px;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: calc(50.00% - 177px);
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ba487f;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AL-RITMO-DEL-SABOR .rectangle-2 {
+  top: 60px;
+  height: 78px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+
+.AL-RITMO-DEL-SABOR .el-proyecto-tiene {
+  position: absolute;
+  top: 79px;
+  left: calc(50.00% - 506px);
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AL-RITMO-DEL-SABOR .span {
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-5 {
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.AL-RITMO-DEL-SABOR .DINOINFO {
+  top: 26px;
+  left: 1486px;
+  width: 111px;
+  height: 45px;
+  aspect-ratio: 2.48;
+  position: absolute;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .FOTOS-y-BOTON {
+  position: relative;
+  width: 1509px;
+  height: 991px;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 478px;
+  height: 269px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN2 {
+  position: absolute;
+  top: 0;
+  left: 498px;
+  width: 521px;
+  height: 269px;
+  aspect-ratio: 1.94;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN3 {
+  position: absolute;
+  top: 0;
+  left: 1028px;
+  width: 479px;
+  height: 269px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN4 {
+  position: absolute;
+  top: 280px;
+  left: 0;
+  width: 478px;
+  height: 267px;
+  aspect-ratio: 1.79;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN5 {
+  position: absolute;
+  top: 282px;
+  left: 498px;
+  width: 521px;
+  height: 265px;
+  aspect-ratio: 1.97;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN6 {
+  position: absolute;
+  top: 280px;
+  left: 1028px;
+  width: 479px;
+  height: 267px;
+  aspect-ratio: 1.79;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN7 {
+  position: absolute;
+  top: 559px;
+  left: 0;
+  width: 478px;
+  height: 268px;
+  aspect-ratio: 1.78;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN8 {
+  position: absolute;
+  top: 559px;
+  left: 498px;
+  width: 521px;
+  height: 268px;
+  aspect-ratio: 1.94;
+}
+
+.AL-RITMO-DEL-SABOR .IMAGEN9 {
+  position: absolute;
+  top: 558px;
+  left: 1028px;
+  width: 479px;
+  height: 268px;
+  aspect-ratio: 1.79;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .p {
+  position: absolute;
+  top: 874px;
+  left: calc(50.00% - 490px);
+  font-family: "Montserrat-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ba487f;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AL-RITMO-DEL-SABOR .component-4 {
+  top: 940px;
+  left: 644px;
+  width: 165px;
+  height: 51px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-6 {
+  position: absolute;
+  width: 69.70%;
+  height: 47.06%;
+  top: 25.49%;
+  left: 15.15%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.AL-RITMO-DEL-SABOR .PIE-DE-PAGINA {
+  position: relative;
+  width: 1926px;
+  height: 140px;
+  margin-right: -6.00px;
+}
+
+.AL-RITMO-DEL-SABOR .rectangle-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 140px;
+  background-color: #ba487f;
+}
+
+.AL-RITMO-DEL-SABOR .DINOPIEDEPAGINA {
+  top: 37px;
+  left: 61px;
+  width: 61px;
+  height: 65px;
+  aspect-ratio: 0.94;
+  position: absolute;
+  object-fit: cover;
+}
+
+.AL-RITMO-DEL-SABOR .rectangle-4 {
+  top: 101px;
+  height: 1px;
+  background-color: #ffeccc;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-7 {
+  position: absolute;
+  top: 4px;
+  left: 303px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AL-RITMO-DEL-SABOR .correo {
+  position: absolute;
+  top: 46px;
+  left: 303px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-8 {
+  font-weight: 700;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-9 {
+  font-family: "Montserrat-Regular", Helvetica;
+}
+
+.AL-RITMO-DEL-SABOR .text-wrapper-10 {
+  position: absolute;
+  top: calc(40.00% + 40px);
+  left: calc(50.00% - 124px);
+  font-family: "Montserrat-LightItalic", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+/* Inject original CSS code here */
+
+.AL-RITMO-DEL-SABOR .MENU a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.AL-RITMO-DEL-SABOR .MENU a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.AL-RITMO-DEL-SABOR .MENU a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.AL-RITMO-DEL-SABOR .MENU a:active {
+  transform: translateY(0);
+}
+
+.AL-RITMO-DEL-SABOR .component-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  cursor: pointer;
+}
+
+.AL-RITMO-DEL-SABOR .component-4:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.AL-RITMO-DEL-SABOR .component-4:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.AL-RITMO-DEL-SABOR .component-4:active {
+  transform: translateY(0);
+}
+
+.AL-RITMO-DEL-SABOR .correo a {
+  color: #ffeccc;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.AL-RITMO-DEL-SABOR .correo a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.AL-RITMO-DEL-SABOR .correo a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.AL-RITMO-DEL-SABOR .FOTOS-y-BOTON img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.AL-RITMO-DEL-SABOR .FOTOS-y-BOTON img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.AL-RITMO-DEL-SABOR .PIE-DE-PAGINA address {
+  font-style: normal;
+}
