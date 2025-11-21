@@ -1,0 +1,429 @@
+.DIBUJO {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 65px;
+  position: relative;
+  background-color: #ffeccc;
+  overflow: hidden;
+}
+
+.DIBUJO .MENU {
+  position: relative;
+  width: 1920px;
+  height: 43px;
+}
+
+.DIBUJO .rectangle {
+  top: 18px;
+  height: 7px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+
+.DIBUJO .component {
+  top: 0;
+  left: 162px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.DIBUJO .text-wrapper {
+  position: absolute;
+  width: 48.23%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 26.24%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DIBUJO .div-wrapper {
+  top: 0;
+  left: 647px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.DIBUJO .div {
+  position: absolute;
+  width: 74.47%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 13.48%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DIBUJO .component-2 {
+  top: 0;
+  left: 1132px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.DIBUJO .text-wrapper-2 {
+  position: absolute;
+  width: 91.49%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 4.26%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DIBUJO .component-3 {
+  top: 0;
+  left: 1617px;
+  width: 141px;
+  height: 43px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.DIBUJO .text-wrapper-3 {
+  position: absolute;
+  width: 83.69%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 8.51%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DIBUJO .BLANCO-y-NEGRO {
+  position: relative;
+  width: 1924px;
+  height: 159px;
+  margin-right: -4.00px;
+}
+
+.DIBUJO .text-wrapper-4 {
+  position: absolute;
+  top: 0;
+  left: calc(50.00% - 142px);
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ba487f;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DIBUJO .rectangle-2 {
+  top: 60px;
+  height: 99px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+
+.DIBUJO .esta-colecci-n-de {
+  position: absolute;
+  top: 79px;
+  left: calc(50.00% - 639px);
+  width: 1274px;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DIBUJO .span {
+  font-family: "Montserrat-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 16px;
+  letter-spacing: 0;
+}
+
+.DIBUJO .text-wrapper-5 {
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+}
+
+.DIBUJO .DINOINFO {
+  top: 26px;
+  left: 1486px;
+  width: 111px;
+  height: 45px;
+  aspect-ratio: 2.48;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DIBUJO .FOTOS-y-BOTON {
+  position: relative;
+  width: 446px;
+  height: 598px;
+}
+
+.DIBUJO .DIBUJO1 {
+  top: -20PX;
+  left: -720px;
+  width: 446px;
+  height: 598px;
+  aspect-ratio: 0.75;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DIBUJO .DIBUJO2 {
+  top: -20PX;
+  left: -250px;
+  width: 362px;
+  height: 598px;
+  aspect-ratio: 0.6;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DIBUJO .DIBUJO3 {
+  top: -20px;
+  left: 220px;
+  width: 443px;
+  height: 598px;
+  aspect-ratio: 0.74;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DIBUJO .DIBUJO4 {
+  top: -20px;
+  left: 690px;
+  width: 431px;
+  height: 598px;
+  aspect-ratio: 0.72;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DIBUJO .component-4 {
+  top: 600px;
+  left: 150px;
+  width: 165px;
+  height: 51px;
+  position: absolute;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.DIBUJO .text-wrapper-6 {
+  position: absolute;
+  width: 69.70%;
+  height: 47.06%;
+  top: 25.49%;
+  left: 15.15%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.DIBUJO .PIE-DE-PAGINA {
+  position: relative;
+  width: 1926px;
+  height: 140px;
+  margin-right: -6.00px;
+}
+
+.DIBUJO .rectangle-3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 140px;
+  background-color: #ba487f;
+}
+
+.DIBUJO .DINOPIEDEPAGINA {
+  top: 37px;
+  left: 61px;
+  width: 61px;
+  height: 65px;
+  aspect-ratio: 0.94;
+  position: absolute;
+  object-fit: cover;
+}
+
+.DIBUJO .rectangle-4 {
+  top: 101px;
+  height: 1px;
+  background-color: #ffeccc;
+  position: absolute;
+  left: 0;
+  width: 1920px;
+}
+
+.DIBUJO .text-wrapper-7 {
+  position: absolute;
+  top: 4px;
+  left: 303px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DIBUJO .correo {
+  position: absolute;
+  top: 46px;
+  left: 303px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.DIBUJO .text-wrapper-8 {
+  font-weight: 700;
+}
+
+.DIBUJO .text-wrapper-9 {
+  font-family: "Montserrat-Regular", Helvetica;
+}
+
+.DIBUJO .text-wrapper-10 {
+  position: absolute;
+  top: calc(40.00% + 40px);
+  left: calc(50.00% - 124px);
+  font-family: "Montserrat-LightItalic", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+/* Inject original CSS code here */
+
+.DIBUJO .MENU a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.DIBUJO .MENU a:hover {
+  background-color: #8a1a1a;
+  transform: translateY(-2px);
+}
+
+.DIBUJO .MENU a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.DIBUJO .MENU a:active {
+  transform: translateY(0);
+}
+
+.DIBUJO .component-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+}
+
+.DIBUJO .component-4:hover {
+  background-color: #8a1a1a;
+  transform: translateY(-2px);
+}
+
+.DIBUJO .component-4:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.DIBUJO .component-4:active {
+  transform: translateY(0);
+}
+
+.DIBUJO .gallery {
+  display: flex;
+  gap: 33px;
+  width: 100%;
+  height: 598px;
+}
+
+.DIBUJO .gallery-item {
+  margin: 0;
+  padding: 0;
+  flex: 1;
+  display: flex;
+}
+
+.DIBUJO .gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.DIBUJO .correo a {
+  color: #ffeccc;
+  text-decoration: none;
+  transition: opacity 0.3s ease;
+}
+
+.DIBUJO .correo a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.DIBUJO .correo a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.DIBUJO address {
+  font-style: normal;
+}

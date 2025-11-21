@@ -1,0 +1,643 @@
+.CONTACTO {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-rows: minmax(0, 1fr);
+  height: 1024px;
+  gap: 44px 71px;
+  position: relative;
+  background-color: #ffeccc;
+  overflow: hidden;
+}
+
+.CONTACTO .MENU {
+  position: relative;
+  grid-row: 1 / 2;
+  grid-column: 1 / 2;
+  width: 1920px;
+  height: 43px;
+}
+
+.CONTACTO .rectangle {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 1920px;
+  height: 7px;
+  background-color: #ba487f;
+}
+
+.CONTACTO .component {
+  top: 0;
+  left: 162px;
+  width: 141px;
+  position: absolute;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.CONTACTO .text-wrapper {
+  position: absolute;
+  width: 48.23%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 26.24%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CONTACTO .div-wrapper {
+  top: 0;
+  left: 647px;
+  width: 141px;
+  position: absolute;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.CONTACTO .div {
+  position: absolute;
+  width: 74.47%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 13.48%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CONTACTO .component-2 {
+  top: 0;
+  left: 1132px;
+  width: 141px;
+  position: absolute;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.CONTACTO .text-wrapper-2 {
+  position: absolute;
+  width: 91.49%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 4.26%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CONTACTO .component-3 {
+  top: 0;
+  left: 1617px;
+  width: 141px;
+  position: absolute;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.CONTACTO .text-wrapper-3 {
+  position: absolute;
+  width: 83.69%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 8.51%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CONTACTO .FORMULARIO {
+  position: absolute;
+  top: 104px;
+  left: 970px;
+  width: 798px;
+  height: 719px;
+}
+
+.CONTACTO .rectangle-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 788px;
+  height: 719px;
+  background-color: #ff9587cc;
+  border-radius: 21px;
+}
+
+.CONTACTO .p {
+  position: absolute;
+  top: 14px;
+  left: 18px;
+  width: 759px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .rectangle-3 {
+  position: absolute;
+  top: 150px;
+  left: 43px;
+  width: 709px;
+  height: 77px;
+  background-color: #ffeccc80;
+  border-radius: 10px;
+}
+
+.CONTACTO .rectangle-4 {
+  position: absolute;
+  top: 260px;
+  left: 43px;
+  width: 709px;
+  height: 77px;
+  background-color: #ffeccc80;
+  border-radius: 10px;
+}
+
+.CONTACTO .rectangle-5 {
+  position: absolute;
+  top: 370px;
+  left: 43px;
+  width: 709px;
+  height: 77px;
+  background-color: #ffeccc80;
+  border-radius: 10px;
+}
+
+.CONTACTO .rectangle-6 {
+  position: absolute;
+  top: 480px;
+  left: 43px;
+  width: 709px;
+  height: 136px;
+  background-color: #ffeccc80;
+  border-radius: 10px;
+}
+
+.CONTACTO .text-wrapper-4 {
+  position: absolute;
+  top: 163px;
+  left: 85px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffa695;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .text-wrapper-5 {
+  top: 272px;
+  left: 85px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffa695;
+  font-size: 24px;
+  text-align: center;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .text-wrapper-6 {
+  position: absolute;
+  top: 383px;
+  left: 85px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffa695;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .text-wrapper-7 {
+  position: absolute;
+  top: 496px;
+  left: 85px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffa695;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .layer {
+  position: absolute;
+  top: 462px;
+  left: 687px;
+  width: 65px;
+  height: 57px;
+  background-image: url(./img/vector-3.svg);
+  background-size: 100% 100%;
+}
+
+.CONTACTO .vector {
+  position: absolute;
+  width: 76.47%;
+  height: 91.84%;
+  top: 3.46%;
+  left: 2.81%;
+}
+
+.CONTACTO .DINOPIEDEPAGINA {
+  position: absolute;
+  width: 2.5%;
+  height: 40%;
+  top: 33%;
+  left: 5%;
+}
+
+.CONTACTO .vector-2 {
+  position: absolute;
+  width: 4.41%;
+  height: 5.95%;
+  top: 24.86%;
+  left: 57.09%;
+}
+
+.CONTACTO .component-4 {
+  top: 649px;
+  left: 327px;
+  width: 142px;
+  position: absolute;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.CONTACTO .text-wrapper-8 {
+  position: absolute;
+  width: 57.04%;
+  height: 55.81%;
+  top: 23.26%;
+  left: 21.13%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.CONTACTO .PIE-DE-PAGINA {
+  position: absolute;
+  top: 884px;
+  left: 0;
+  width: 1926px;
+  height: 140px;
+}
+
+.CONTACTO .rectangle-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 140px;
+  background-color: #ba487f;
+}
+
+.CONTACTO .image {
+  top: 37px;
+  left: 61px;
+  width: 61px;
+  height: 65px;
+  aspect-ratio: 0.94;
+  position: absolute;
+  object-fit: cover;
+}
+
+.CONTACTO .rectangle-8 {
+  position: absolute;
+  top: 101px;
+  left: 0;
+  width: 1920px;
+  height: 1px;
+  background-color: #ffeccc;
+}
+
+.CONTACTO .text-wrapper-9 {
+  position: absolute;
+  top: 3px;
+  left: 303px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .correo {
+  top: 46px;
+  left: 303px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 12px;
+  position: absolute;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .span {
+  font-weight: 700;
+}
+
+.CONTACTO .text-wrapper-10 {
+  font-family: "Montserrat-Regular", Helvetica;
+}
+
+.CONTACTO .text-wrapper-11 {
+  position: absolute;
+  top: calc(43.00% + 40px);
+  left: calc(50.00% - 123px);
+  font-family: "Montserrat-LightItalic", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .FRASE-CON-FOTO {
+  position: absolute;
+  top: 201px;
+  left: 0;
+  width: 917px;
+  height: 444px;
+}
+
+.CONTACTO .RECTANGULOFOTO {
+  position: absolute;
+  top: 146px;
+  left: 0;
+  width: 915px;
+  height: 156px;
+}
+
+.CONTACTO .FOTO {
+  position: absolute;
+  top: calc(50.00% - 222px);
+  left: calc(50.00% - 346px);
+  width: 368px;
+  height: 444px;
+  aspect-ratio: 0.83;
+}
+
+.CONTACTO .la-fotograf-a-me {
+  position: absolute;
+  top: 170px;
+  left: 511px;
+  font-family: "MuseoModerno-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #722323;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.CONTACTO .layer-2 {
+  position: absolute;
+  top: 218px;
+  left: 371px;
+  width: 32px;
+  height: 20px;
+  transform: rotate(180deg);
+}
+
+.CONTACTO .vector-3 {
+  position: absolute;
+  width: 100.00%;
+  height: 100.02%;
+  top: 0;
+  left: 0;
+  transform: rotate(-180deg);
+}
+
+.CONTACTO .vector-4 {
+  position: absolute;
+  width: 94.46%;
+  height: 90.99%;
+  top: 4.75%;
+  left: 2.97%;
+  transform: rotate(-180deg);
+}
+
+.CONTACTO .vector-5 {
+  position: absolute;
+  width: 4.24%;
+  height: 7.47%;
+  top: 35.20%;
+  left: 84.33%;
+  transform: rotate(-180deg);
+}
+
+.CONTACTO .layer-3 {
+  position: absolute;
+  top: 111px;
+  left: 349px;
+  width: 23px;
+  height: 27px;
+  background-image: url(./img/vector-7.svg);
+  background-size: 100% 100%;
+}
+
+.CONTACTO .vector-6 {
+  position: absolute;
+  width: 91.69%;
+  height: 94.31%;
+  top: 2.97%;
+  left: 3.79%;
+}
+
+.CONTACTO .vector-7 {
+  position: absolute;
+  width: 6.03%;
+  height: 5.16%;
+  top: 10.84%;
+  left: 30.86%;
+}
+
+.CONTACTO .image-2 {
+  top: 166px;
+  left: 281px;
+  width: 37px;
+  height: 19px;
+  aspect-ratio: 2.48;
+  position: absolute;
+  object-fit: cover;
+}
+
+.CONTACTO .image-3 {
+  top: 100px;
+  left: 500px;
+  width: 48px;
+  height: 45px;
+  aspect-ratio: 1.05;
+  position: absolute;
+  object-fit: cover;
+}
+
+.CONTACTO .MENU a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.CONTACTO .MENU a:hover {
+  opacity: 0.9;
+}
+
+.CONTACTO .MENU a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.CONTACTO .form-field {
+  position: relative;
+}
+
+/* Estilos de los inputs y textareas */
+.CONTACTO .form-input,
+.CONTACTO .form-textarea {
+  position: absolute;
+  background: transparent;
+  border: none;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #722323;
+  font-size: 24px;
+  padding: 20px 42px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+/* OCULTAR EL PLACEHOLDER: La etiqueta (Label) ahora cumple su función */
+.CONTACTO .form-input::placeholder,
+.CONTACTO .form-textarea::placeholder {
+  color: transparent; /* Hace el texto invisible */
+  opacity: 0;
+}
+
+.CONTACTO .form-input:focus,
+.CONTACTO .form-textarea:focus {
+  outline: 2px solid #722323;
+  outline-offset: -2px;
+}
+
+.CONTACTO .form-input[type="text"] {
+  top: 150px;
+  left: 43px;
+  height: 77px;
+}
+
+.CONTACTO .form-input[type="email"] {
+  top: 260px;
+  left: 43px;
+  height: 77px;
+}
+
+.CONTACTO .form-input[type="tel"] {
+  top: 370px;
+  left: 43px;
+  height: 77px;
+}
+
+.CONTACTO .form-textarea {
+  top: 480px;
+  left: 43px;
+  height: 136px;
+  resize: none;
+  padding-top: 16px;
+}
+
+/* Estilos de la etiqueta (Label) */
+.CONTACTO .text-wrapper-4,
+.CONTACTO .text-wrapper-5,
+.CONTACTO .text-wrapper-6,
+.CONTACTO .text-wrapper-7 {
+  pointer-events: none;
+  transition: opacity 0.2s ease;
+  opacity: 1; /* Aseguramos que la etiqueta sea visible por defecto */
+}
+
+/* CORRECCIÓN CLAVE: Ocultar la etiqueta cuando el campo SÍ tiene contenido o está enfocado */
+/* Esto funciona porque el input ahora está ANTES de la label en el HTML */
+.CONTACTO .form-input:not(:placeholder-shown) + label,
+.CONTACTO .form-textarea:not(:placeholder-shown) + label,
+.CONTACTO .form-input:focus + label, 
+.CONTACTO .form-textarea:focus + label {
+  opacity: 0;
+}
+
+.CONTACTO .component-4:hover {
+  transform: translateY(-2px);
+  opacity: 0.95;
+}
+
+.CONTACTO .component-4:active {
+  transform: translateY(0);
+}
+
+.CONTACTO .component-4:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.CONTACTO .correo a {
+  color: #ffeccc;
+  text-decoration: none;
+}
+
+.CONTACTO .correo a:hover {
+  text-decoration: underline;
+}
+
+.CONTACTO .correo a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.CONTACTO .FORMULARIO form {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}

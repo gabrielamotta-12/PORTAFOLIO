@@ -1,0 +1,576 @@
+.INICIO {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 36px;
+  padding: 1px 0px;
+  position: relative;
+  background-color: #ffeccc;
+  overflow: hidden;
+}
+
+.INICIO .MENU {
+  position: relative;
+  width: 1920px;
+  height: 43px;
+}
+
+.INICIO .rectangle {
+  top: 15px;
+  width: 1920px;
+  height: 7px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+}
+
+.INICIO .component {
+  left: 162px;
+  position: absolute;
+  top: 0;
+  width: 141px;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+  border: 0px solid;
+  border-color: #000000;
+}
+
+.INICIO .text-wrapper {
+  position: absolute;
+  width: 48%;
+  height: 55%;
+  top: 35%;
+  left: 30%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INICIO .div-wrapper {
+  left: 647px;
+  position: absolute;
+  top: 0;
+  width: 141px;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+  border: 0px solid;
+  border-color: #000000;
+}
+
+
+.INICIO .div {
+  position: absolute;
+  width: 74.47%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 13.48%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INICIO .component-2 {
+  left: 1132px;
+  position: absolute;
+  top: 0;
+  width: 141px;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+  border: 0px solid;
+  border-color: #000000;
+}
+
+.INICIO .text-wrapper-2 {
+  position: absolute;
+  width: 91.49%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 4.26%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INICIO .component-3 {
+  left: 1617px;
+  position: absolute;
+  top: 0;
+  width: 141px;
+  height: 43px;
+  background-color: #722323;
+  border-radius: 10px;
+  border: 0px solid;
+  border-color: #000000;
+}
+
+.INICIO .text-wrapper-3 {
+  position: absolute;
+  width: 83.69%;
+  height: 55.81%;
+  top: 33.33%;
+  left: 8.51%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INICIO .BANNER-2 {
+  left: 40px;
+  width: 1278px;
+  position: relative;
+  height: 128px;
+}
+
+.INICIO .pink-ipad-macbook {
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  width: 1282px;
+  height: 136px;
+  aspect-ratio: 9.95;
+}
+
+.INICIO .text-wrapper-4 {
+  position: absolute;
+  top: 20px;
+  left: 455px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #722323;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INICIO .text-wrapper-5 {
+  position: absolute;
+  top: 50px;
+  left: 455px;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #722323;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 10;
+  line-height: normal;
+}
+
+.INICIO .BANNERR {
+  position: absolute;
+  top: 73px;
+  left: 695px;
+  width: 19px;
+  height: 18px;
+  aspect-ratio: 1.06;
+  object-fit: cover;
+}
+
+.INICIO .text-wrapper-6 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Montserrat-SemiBold", Helvetica;
+  font-weight: 600;
+  color: #722323;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INICIO .PRESENTACION {
+  position: relative;
+  width: 1159px;
+  height: 63px;
+}
+
+.INICIO .rectangle-2 {
+  top: 21px;
+  width: 1098px;
+  height: 39px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+}
+
+.INICIO .DINOGABS {
+  position: absolute;
+  top: 0;
+  left: 1057px;
+  width: 100px;
+  height: 63px;
+  aspect-ratio: 1.6;
+  object-fit: cover;
+}
+
+.INICIO .p {
+  position: absolute;
+  top: 26px;
+  left: 162px;
+  width: 741px;
+  font-family: "Montserrat-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #ffeccc;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INICIO .FRASE {
+  position: relative;
+  width: 1007px;
+  height: 20px;
+}
+
+.INICIO .group {
+  position: relative;
+  top: -58px;
+  left: -162px;
+  width: 1308px;
+  height: 67px;
+}
+
+.INICIO .rectangle-3 {
+  top: 32px;
+  width: 1273px;
+  height: 34px;
+  background-color: #ff9587;
+  position: absolute;
+  left: 0;
+}
+
+.INICIO .DINOFRASE {
+  position: absolute;
+  top: 0;
+  left: 1210px;
+  width: 96px;
+  height: 67px;
+  aspect-ratio: 1.44;
+  object-fit: cover;
+}
+
+.INICIO .text-wrapper-7 {
+  position: absolute;
+  top: 34px;
+  left: 162px;
+  width: 1007px;
+  font-family: "Montserrat-MediumItalic", Helvetica;
+  font-weight: 500;
+  font-style: italic;
+  color: #722323;
+  font-size: 24px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.INICIO .PROYECTOS {
+  position: relative;
+  width: 1920px;
+  height: 326px;
+}
+
+.INICIO .rectangle-4 {
+  top: 200px;
+  width: 1920px;
+  height: 7px;
+  background-color: #722323;
+  position: absolute;
+  left: 0;
+}
+
+.INICIO .PARCHATE {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  width: 184px;
+  height: 326px;
+  aspect-ratio: 0.56;
+  object-fit: cover;
+}
+
+.INICIO .ALRITMODELSABOR {
+  position: absolute;
+  top: 0;
+  left: 647px;
+  width: 193px;
+  height: 326px;
+  aspect-ratio: 0.59;
+}
+
+.INICIO .CARRO {
+  position: absolute;
+  top: 0;
+  left: 1132px;
+  width: 196px;
+  height: 326px;
+  aspect-ratio: 0.6;
+}
+
+.INICIO .DIBUJO {
+  position: absolute;
+  top: 0;
+  left: 1539px;
+  width: 219px;
+  height: 326px;
+  aspect-ratio: 0.67;
+}
+
+.INICIO .CONEJITOFILA1 {
+  position: absolute;
+  top: 165px;
+  left: 458px;
+  width: 32px;
+  height: 30px;
+  aspect-ratio: 1.06;
+  object-fit: cover;
+}
+
+.INICIO .CONEJITOFILA2 {
+  position: absolute;
+  top: 165px;
+  left: 944px;
+  width: 32px;
+  height: 30px;
+  aspect-ratio: 1.06;
+  object-fit: cover;
+}
+
+.INICIO .CONEJITOFILA3 {
+  position: absolute;
+  top: 165px;
+  left: 1430px;
+  width: 32px;
+  height: 30px;
+  aspect-ratio: 1.06;
+  object-fit: cover;
+}
+
+.INICIO .BOTON-CONOCE-MAS {
+  position: relative;
+  width: 133px;
+  height: 36px;
+  background-color: #722323;
+  border-radius: 10px;
+}
+
+.INICIO .text-wrapper-8 {
+  position: absolute;
+  width: 87.97%;
+  height: 55.56%;
+  top: 22.22%;
+  left: 6.02%;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INICIO .PIE-DE-PAGINA {
+  position: relative;
+  width: 1926px;
+  height: 127.38px;
+  margin-right: -6.00px;
+}
+
+.INICIO .rectangle-5 {
+  top: 0;
+  width: 1920px;
+  height: 127px;
+  background-color: #ba487f;
+  position: absolute;
+  left: 0;
+}
+
+.INICIO .DINOPIEDEPAGINA {
+  position: absolute;
+  top: 23px;
+  left: 82px;
+  width: 62px;
+  height: 66px;
+  aspect-ratio: 0.94;
+  object-fit: cover;
+}
+
+.INICIO .text-wrapper-9 {
+  position: absolute;
+  top: 8px;
+  left: 306px;
+  width: 139px;
+  font-family: "MuseoModerno-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffeccc;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INICIO .correo {
+  position: absolute;
+  top: 36px;
+  left: 306px;
+  width: 230px;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffeccc;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.INICIO .span {
+  font-weight: 700;
+}
+
+.INICIO .text-wrapper-10 {
+  font-family: "Montserrat-Regular", Helvetica;
+}
+
+.INICIO .rectangle-6 {
+  position: absolute;
+  top: 87px;
+  left: 0;
+  width: 1920px;
+  height: 1px;
+  background-color: #ffeccc;
+}
+
+.INICIO .text-wrapper-11 {
+  position: absolute;
+  top: calc(50.00% + 33px);
+  left: calc(50.00% - 120px);
+  width: 241px;
+  font-family: "Montserrat-LightItalic", Helvetica;
+  font-weight: 300;
+  font-style: italic;
+  color: #ffeccc;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+/* Inject original CSS code here */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.INICIO .MENU a {
+  text-decoration: none;
+  display: block;
+}
+
+.INICIO .component,
+.INICIO .div-wrapper,
+.INICIO .component-2,
+.INICIO .component-3 {
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.INICIO .component:hover,
+.INICIO .div-wrapper:hover,
+.INICIO .component-2:hover,
+.INICIO .component-3:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.INICIO .component:focus,
+.INICIO .div-wrapper:focus,
+.INICIO .component-2:focus,
+.INICIO .component-3:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.INICIO .BOTON-CONOCE-MAS {
+  cursor: pointer;
+  transition: transform 0.2s ease, background-color 0.2s ease;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.INICIO .BOTON-CONOCE-MAS:hover {
+  transform: scale(1.05);
+  background-color: #8b2e2e;
+}
+
+.INICIO .BOTON-CONOCE-MAS:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.INICIO .correo a {
+  color: #ffeccc;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.INICIO .correo a:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+}
+
+.INICIO .correo a:focus {
+  outline: 2px solid #ffeccc;
+  outline-offset: 2px;
+}
+
+.INICIO .proyecto-item {
+  position: relative;
+  display: inline-block;
+}
+
+.INICIO address {
+  font-style: normal;
+}
+
+.INICIO h1,
+.INICIO h2 {
+  margin: 0;
+  padding: 0;
+}
+
+.INICIO blockquote {
+  margin: 0;
+  padding: 0;
+}
