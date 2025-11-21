@@ -328,7 +328,7 @@
 .PROYECTOS .PARCHATE {
   position: absolute;
   top: 0;
-  left: 0;
+  left: -10px;
   width: 223px;
   height: 252px;
   aspect-ratio: 0.56;
